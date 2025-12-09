@@ -3,5 +3,5 @@
 ![OS](https://img.shields.io/badge/OS-Windows%2010%2F11-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-# FractalWall
+# ![icon](https://cdn.discordapp.com/attachments/1437646588859383889/1447988090982498504/logo-removebg-preview_15_1.png?ex=69399f7f&is=69384dff&hm=c745ac30d446a0f1062045cd8d2e33bbcc858e2fc04008898b63073f7d98c801) FractalWall Obfuscator
 FractalWall is a lightweight yet powerful Python obfuscation tool
