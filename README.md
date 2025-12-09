@@ -89,5 +89,9 @@ To automatically install the correct modules with pinned versions:
 
 If you like FractalWall, consider starring the project on GitHub, it helps a lot!
 
+My discord : vosunknown
+
+My discord server : https://discord.gg/tMtdpUSrdM
+
 ---
 
