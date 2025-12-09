@@ -56,8 +56,32 @@ FractalWall includes a fully stacked obfuscation pipeline:
 
 - Randomized entry loader
 
----
-
 - Further confusion of the final code execution
 
+---
+
+# 📦 Requirements
+
+To automatically install the correct modules with pinned versions:
+```pip install -r requirements.txt```
+
+---
+
+# 📁 Output Structure
+```
+<filename>-Obfuscated/
+│
+├── <filename>.py          <- Fully obfuscated file
+└── cache/
+    ├── os.py              <- part 1 of encrypted payload
+    └── sys.py             <- part 2 of encrypted payload
+```
+
+---
+
+# ⭐ Support
+
+If you like FractalWall, consider starring the project on GitHub, it helps a lot!
+
+---
 
