@@ -12,7 +12,6 @@ It combines multiple layers of protection, including marshal, base64, zlib, PyAr
 
 This tool is built for users who want to protect their Python source code from tampering, analysis, and decompilation.
 
----
 
 #✨ Features
 
@@ -58,4 +57,4 @@ FractalWall includes a fully stacked obfuscation pipeline:
 
 - Further confusion of the final code execution
 
----
+
