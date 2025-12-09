@@ -20,7 +20,7 @@ This tool is built for users who want to protect their Python source code from t
 
 FractalWall includes a fully stacked obfuscation pipeline:
 
-###1️⃣ First Wall -> Split Payload Encryption
+1️⃣ First Wall -> Split Payload Encryption
 
 - Compresses + marshals the code
 
@@ -30,13 +30,13 @@ FractalWall includes a fully stacked obfuscation pipeline:
 
 - Reconstructs and runs through a self-decoding loader
 
-###2️⃣ Second Wall -> PyArmor Protection
+2️⃣ Second Wall -> PyArmor Protection
 
 - Automatically runs pyarmor gen on the generated script
 
 - Adds an additional runtime VM-based obfuscation layer
 
-###3️⃣ Third Wall -> Binary Confusion Layer
+3️⃣ Third Wall -> Binary Confusion Layer
 
 - ROT13 + HEX + zlib + pickle + marshal
 
@@ -50,7 +50,7 @@ FractalWall includes a fully stacked obfuscation pipeline:
 
 - Fake null lines + junk variable injections
 
-###4️⃣ Fourth Wall -> Final Compression Barrier
+4️⃣ Fourth Wall -> Final Compression Barrier
 
 - Entire file reprocessed into a deeper marshal → zlib → pickle → base16 → mapped-character blob
 
