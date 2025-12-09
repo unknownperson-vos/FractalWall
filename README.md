@@ -12,6 +12,8 @@ It combines multiple layers of protection, including marshal, base64, zlib, PyAr
 
 This tool is built for users who want to protect their Python source code from tampering, analysis, and decompilation.
 
+![Demo](assets/demoo.gif)
+
 ---
 
 # ✨ Features
