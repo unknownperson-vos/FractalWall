@@ -62,6 +62,10 @@ FractalWall includes a fully stacked obfuscation pipeline:
 
 ---
 
+![Fractal](https://cdn.discordapp.com/attachments/1437646588859383889/1447993897165787176/python_Pn4pKes9nF.png?ex=6939a4e7&is=69385367&hm=0ce86206a69dc66e87c5ac8ada4c482fffc761385daefbf3a58aec410d94e676)
+
+---
+
 # 📦 Requirements
 
 To automatically install the correct modules with pinned versions:
